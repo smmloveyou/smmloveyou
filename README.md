@@ -1,5 +1,8 @@
 ###你好👋
-我其实不好
+新手小白，首页无甚可讲。
+略懂qt，特来瞻仰各路大神
+
+
 <!--
 **smmloveyou/smmloveyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
